@@ -8,4 +8,4 @@ Explanation:
 The main idea for this problem is using pointer to traversal the list.
 If the pointer value in the list is smaller than the min value, then set new min value as
 the pointer value. Similar to max value. Thus after a single traversal, the min and max
-value will be find. The time complex is O(n) and the space complex is O(1).
+value will be find. The time complexity is O(n) and the space complexity is O(1).
