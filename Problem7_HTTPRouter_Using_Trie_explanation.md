@@ -25,16 +25,16 @@ Explanation:
 The main idea for this problem is similar to insert and exist functions
 of Trie given by course.
 
-For RouteTrieNode class, the time and space complex is O(1) because the insert
+For RouteTrieNode class, the time and space complexity is O(1) because the insert
 function is only add a single node to Trie.
 
 For RouteTrie class, the insert function spent O(n) times because
-it traversals the piece of path. The space complex is O(n) based on the size
+it traversals the piece of path. The space complexity is O(n) based on the size
 of list. The find function spent O(n) times and space.
 
 For Router class, the add_handler’s function time and space complexity are both O(n).
 This follows from the add_handler directly calling the RouteTrie's insert function.
 The lookup function's time and space complexity are both O(n) because of calling
 the RouteTrie's find function. The split_path function spent O(n) times
-since cailling the split function which traversal the path. The space complex
+since cailling the split function which traversal the path. The space complexity
 is also O(n) based on the size of path's pieces.
