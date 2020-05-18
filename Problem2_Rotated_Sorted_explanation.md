@@ -14,5 +14,5 @@ Explanation:
 The main idea for this problem is binary search method.
 Firstly I find the pivot point and then I split the array two parts
 by the pivot point. Finally, I apply the binary search method in both parts to find the
-target. The time complex is O(log(n)) since binary search method and the space
-complex is O(1).
+target. The time complexity is O(log(n)) since binary search method and the space
+complexity is O(1).
