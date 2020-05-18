@@ -9,6 +9,6 @@ Explanation:
 
 In this problem, I used the bisection method to find the square root.
 Given a positive integer, find the square of the mid value and then
-compare to the integer to determine the new mid value. The time complex
-is O(log(n)) because of bisection method and space complex is
+compare to the integer to determine the new mid value. The time complexity
+is O(log(n)) because of bisection method and space complexity is
 O(1).
