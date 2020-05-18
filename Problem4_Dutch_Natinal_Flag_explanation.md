@@ -9,4 +9,4 @@ one for start, one for end and one for pointer to traversal the whole list.
 Then comparing the pointer value and 1, if the pointer value is less than 1,
 swap the start value and the pointer value. If the pointer value is greater than 1,
 swap the end value and the pointer value. Thus, it only sort the array in a single traversal.
-The time complex is O(n) and the space complex is O(1).
+The time complexity is O(n) and the space complexity is O(1).
