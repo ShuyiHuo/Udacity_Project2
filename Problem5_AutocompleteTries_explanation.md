@@ -6,5 +6,5 @@ Explanation:
 
 For this problem, I use the codes from class to build Trie. Then
 I use recursion method for suffixes part in TrieNode class. Thus, the time
-complex is O(nlog(n)) and the space complex is O(n).
+complexity is O(nlog(n)) and the space complexity is O(n).
 
