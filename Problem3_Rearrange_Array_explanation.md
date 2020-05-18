@@ -9,5 +9,5 @@ The expected answer would be [531, 42]. Another expected answer can be [542, 31]
 Explanation:
 
 The main idea for this problem is using merge sort method to find two numbers that their sum
-is maximum. Thus the time complex is O(nlog(n)) and the space complex is
+is maximum. Thus the time complexity is O(nlog(n)) and the space complexity is
 O(n).
